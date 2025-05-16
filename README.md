@@ -31,7 +31,7 @@ Everything runs in Google Colab, so the only requirement is a Google Drive accou
 *Scrape images with DuckDuckGo, balance positive/negative classes, and package them into a `tf.data` pipeline.*
 
 1. **Cell A** &nbsp;Mount Google Drive.  
-2. Set the `TARGET` variable (e.g. `"crater"`, `"zebra_crossing"`).  
+2. Set the `TARGET` variable (e.g. `"potholes"`, `"zebra_crossing"`).  
 3. Run the notebook to download, clean, resize, and save images:
 ```plaintext
 data/
