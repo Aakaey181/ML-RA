@@ -23,6 +23,8 @@ Everything runs in Google Colab, so the only requirement is a Google Drive accou
 | **Module 2 — Transfer Learning & Cross-Validation** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/drive/1a1m8uVH7lv_vxU1MwrhhLzcbCJEXlJhG?usp=drive_link>) |
 | **Module 3 — Inference & Prediction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/drive/1SPBEpMy1Nnu2YN21h4vMeKPLVg0sgZDI?usp=drive_link>)  |
 
+Root Directory: https://drive.google.com/drive/folders/1ix7Cj0mtPdWjhxivGY7PjmRKFfot6B2k?usp=drive_link
+
 
 
 ## Lab Roadmap
